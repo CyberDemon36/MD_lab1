@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MD_lab1", "MD_lab1\MD_lab1.csproj", "{162697D2-88B8-4497-BF09-71F8CD1CF50B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotsDistance_lab1", "..\DotsDistance_lab1\DotsDistance_lab1\DotsDistance_lab1.csproj", "{BA6CD886-B39F-4799-AC9C-FAE43473B828}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{162697D2-88B8-4497-BF09-71F8CD1CF50B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162697D2-88B8-4497-BF09-71F8CD1CF50B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162697D2-88B8-4497-BF09-71F8CD1CF50B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162697D2-88B8-4497-BF09-71F8CD1CF50B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA6CD886-B39F-4799-AC9C-FAE43473B828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA6CD886-B39F-4799-AC9C-FAE43473B828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA6CD886-B39F-4799-AC9C-FAE43473B828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA6CD886-B39F-4799-AC9C-FAE43473B828}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F78103C4-DD69-437B-A205-EFF0F7407CBD}
+	EndGlobalSection
+EndGlobal

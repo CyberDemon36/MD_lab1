@@ -1,0 +1,10 @@
+D:\VS projects\MD_lab1\MD_lab1\obj\Debug\MD_lab1.csprojAssemblyReference.cache
+D:\VS projects\MD_lab1\MD_lab1\obj\Debug\MD_lab1.csproj.CoreCompileInputs.cache
+D:\VS projects\MD_lab1\MD_lab1\bin\Debug\MD_lab1.exe.config
+D:\VS projects\MD_lab1\MD_lab1\bin\Debug\MD_lab1.exe
+D:\VS projects\MD_lab1\MD_lab1\bin\Debug\MD_lab1.pdb
+D:\VS projects\MD_lab1\MD_lab1\bin\Debug\DotsDistance_lab1.dll
+D:\VS projects\MD_lab1\MD_lab1\bin\Debug\DotsDistance_lab1.pdb
+D:\VS projects\MD_lab1\MD_lab1\obj\Debug\MD_lab1.csproj.CopyComplete
+D:\VS projects\MD_lab1\MD_lab1\obj\Debug\MD_lab1.exe
+D:\VS projects\MD_lab1\MD_lab1\obj\Debug\MD_lab1.pdb
